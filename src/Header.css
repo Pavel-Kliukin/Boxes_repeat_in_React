@@ -1,0 +1,12 @@
+.header {
+  background-color: rgb(64, 118, 237);
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  color: black;
+}
+
+.header h1 {
+  margin-left: 1rem;
+}
